@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Angular, ReactJS & Python**
 
-- 👨‍💻 I’m currently working on my entrepreneurship called **Plopster*, also I'm completely open to get a job like a developer freelance or like a staffer 👨‍💻
+- 👨‍💻 I’m currently working on my entrepreneurship called **Plopster**, also I'm completely open to get a job like a developer freelance or like a staffer 👨‍💻
 
 
 <h3 align="left">Languages and Tools:</h3>
