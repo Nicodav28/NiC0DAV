@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Colombia</h3>
 
 
-- 🌱 I’m currently learning **Angular, ReactJS & Python**
+- 🌱 I’m currently learning *Dart with Flutter, Kotlin & Python**
 
 - 👨‍💻 I’m currently working on my entrepreneurship called **Plopster**, also I'm completely open to get a job like a developer freelance or like a staffer 👨‍💻
 
