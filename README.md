@@ -19,13 +19,11 @@
     <h4 align="left">Backend Frameworks:</h4>
 <a href="https://laravel.com/" target="_blank"> <img  src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="50" height="50"/> </a>
 <a><img alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="mysql" width="50" height="50"/></a> 
-
 </li>
 
 <li>
     <h4 align="left">Frontend Frameworks:</h4>
 <a href="https://angular.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angularjs" width="50" height="50"/> </a> <a href="https://es.reactjs.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="reactjs" width="50" height="50"/> </a>
-
 </li>
 
 <li>
