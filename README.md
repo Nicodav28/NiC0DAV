@@ -14,8 +14,7 @@
 <a href="https://laravel.com/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="laravel" width="50" height="50"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="laravel" width="50" height="50"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="laravel" width="50" height="50"/> </a>
-
-    </li>
+</li>
 <li>
     <h4 align="left">Backend Frameworks:</h4>
 <a href="https://laravel.com/" target="_blank"> <img  src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="50" height="50"/> </a>
